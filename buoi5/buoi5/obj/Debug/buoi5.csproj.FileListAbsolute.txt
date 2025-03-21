@@ -1,0 +1,8 @@
+D:\24DH113417_TranMinhTuyen\buoi5\buoi5\bin\Debug\buoi5.exe.config
+D:\24DH113417_TranMinhTuyen\buoi5\buoi5\bin\Debug\buoi5.exe
+D:\24DH113417_TranMinhTuyen\buoi5\buoi5\bin\Debug\buoi5.pdb
+D:\24DH113417_TranMinhTuyen\buoi5\buoi5\obj\Debug\buoi5.csproj.AssemblyReference.cache
+D:\24DH113417_TranMinhTuyen\buoi5\buoi5\obj\Debug\buoi5.csproj.SuggestedBindingRedirects.cache
+D:\24DH113417_TranMinhTuyen\buoi5\buoi5\obj\Debug\buoi5.csproj.CoreCompileInputs.cache
+D:\24DH113417_TranMinhTuyen\buoi5\buoi5\obj\Debug\buoi5.exe
+D:\24DH113417_TranMinhTuyen\buoi5\buoi5\obj\Debug\buoi5.pdb
