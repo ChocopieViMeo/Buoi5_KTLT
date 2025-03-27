@@ -1,0 +1,7 @@
+C:\KTLT\24DH113417\Buoi 5\baiTap3\baiTap3\obj\Debug\baiTap3.csproj.AssemblyReference.cache
+C:\KTLT\24DH113417\Buoi 5\baiTap3\baiTap3\obj\Debug\baiTap3.csproj.CoreCompileInputs.cache
+C:\KTLT\24DH113417\Buoi 5\baiTap3\baiTap3\bin\Debug\baiTap3.exe.config
+C:\KTLT\24DH113417\Buoi 5\baiTap3\baiTap3\bin\Debug\baiTap3.exe
+C:\KTLT\24DH113417\Buoi 5\baiTap3\baiTap3\bin\Debug\baiTap3.pdb
+C:\KTLT\24DH113417\Buoi 5\baiTap3\baiTap3\obj\Debug\baiTap3.exe
+C:\KTLT\24DH113417\Buoi 5\baiTap3\baiTap3\obj\Debug\baiTap3.pdb
